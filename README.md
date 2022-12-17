@@ -39,6 +39,8 @@
 
 ## 4._ Video 
 
+  - https://youtu.be/tqPFPt2iSCU
+
 ## 5._ Conclusiones
   
   - Los componentes de un circuito se pueden comprende en unos equivalentes que facilitan el analisis de componenetes especificos, los cuales se deven interpretar segun el meto que se utilize para obtener los valores numericos. 
