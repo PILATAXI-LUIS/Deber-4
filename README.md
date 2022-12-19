@@ -358,3 +358,5 @@
   - Los teoremas vistos presentan una relacion al momento de realizar su analsis que facilita la integracio de ambos en la comprencion de circuitos complejos en unos basicos. 
 
 ## 6._ Bibliografia 
+
+  - Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
